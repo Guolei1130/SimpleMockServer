@@ -1,0 +1,40 @@
+{
+    "api": [
+        {
+            "path": "/api1",
+            "desc":"测试接口地址1",
+            "method": "request",
+            "return": {
+                "code": 0,
+                "message": {
+                    "username": "guolei1",
+                    "password": "[!IMG]"
+                }
+            }
+        },
+        {
+            "path": "/api2",
+            "desc":"测试接口地址2",
+            "method": "request",
+            "return": {
+                "code": 0,
+                "message": {
+                    "username": "guolei2",
+                    "password": "[!IMG]"
+                }
+            }
+        },
+        {
+            "path": "/api3",
+            "desc":"测试接口地址3",
+            "method": "request",
+            "return": {
+                "code": 0,
+                "message": {
+                    "username": "guolei3",
+                    "password": "[!IMG]"
+                }
+            }
+        }
+    ]
+}
